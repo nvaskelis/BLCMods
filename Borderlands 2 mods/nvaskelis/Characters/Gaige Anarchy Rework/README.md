@@ -16,24 +16,33 @@ With this mod, you can now enjoy gaining anarchy stacks naturally by playing the
 Math Example:
 ---------
 New Anarchy:
+
 Max stacks = 30
+
 Damage per stack = 8.75%
+
 Total damage = 30 * 8.75% = 262.5%
 
 vs
 
 Old Anarchy:
+
 Max stacks = 150
+
 Damage per stack = 1.75%
+
 Total damage = 150 * 1.75% = 262.5%
+
 
 Install
 =======
 
 Install like any other BLCM mod (File -> Import single mod).
+
 Everything in the mod is sectioned off by skill if you want to make your own adjustments.
 
 If you want to use UCP along with this, make sure to disable the With Claws changes. I integrated the With Claws changes from UCP and multiplied the effects because I also like running UCP (obviously, credit to the UCP team for those changes). 
+
 I didn't touch the added healing UCP gave to this skill, but the damage and swap speed are scaled to the new values (didn't need more healing when testing).
 
 Changelog
