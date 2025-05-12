@@ -5,6 +5,7 @@ This mod attempts to resolve this by reducing the number of max stacks by 5x and
 This also means related anarchy effects, such as Discord and With Claws, are much stronger now because their cost of stacks is much more expensive with fewer overall stacks.
 However, with how much damage you are now losing when using them, they seemed balanced while testing (again, same overall power).
 
+Install like any other BLCMM mod.
 Everything in the mod is sectioned off by skill if you want to make your own adjustments.
 
 If you want to use UCP along with this, make sure to disable the With Claws changes. I integrated the With Claws changes from UCP and multiplied the effects because I also like running UCP (obviously, credit tothe  UCP team for those changes). 
