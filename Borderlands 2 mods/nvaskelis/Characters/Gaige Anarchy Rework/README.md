@@ -7,7 +7,7 @@ Other mods try to solve this by giving all the stacks through Rational Anarchist
 This mod attempts to resolve this by *reducing* the number of max stacks by 5x (including Preshrunk and Rational Anarchist) and *increasing* all anarchy effects by 5x (including Anarchy, Discord, Death From Above, and With Claws): same overall power, faster acquisition.
 Discord, in particular, is much stronger in the short term due to the stat bump, but much more of a trade-off because of fewer max stacks (example: faster healing, but same total healing).
 
-The only other change I made was bumping the *relative* value of Rational Anarchist up by 2x (in this case: 5 stacks to 15 stacks). 
+The only other change I made was bumping the *relative* value of Rational Anarchist up by 3x (in this case: 5 stacks to 15 stacks). 
 Because getting damage from stacks is so much quicker, the small initial bump provided by this skill had much less value, only saving you from having to get 5 kills + reloads (even less with typecast).
 Since I still want the skill to have value and not be skipped in the tree, I gave it a decent bump to keep it relevant. 
 
